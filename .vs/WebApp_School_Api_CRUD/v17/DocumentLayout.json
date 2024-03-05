@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFE992-8322-40DA-8F3D-994F73B88901}|WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD.csproj|D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\webapp_school_api_crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EFE992-8322-40DA-8F3D-994F73B88901}|WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD.csproj|solutionrelative:webapp_school_api_crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFE992-8322-40DA-8F3D-994F73B88901}|WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD.csproj|d:\\image_video_uploads_webapp\\webapp_school_api_crud\\webapp_school_api_crud\\models\\studentdatails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EFE992-8322-40DA-8F3D-994F73B88901}|WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD.csproj|solutionrelative:webapp_school_api_crud\\models\\studentdatails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFE992-8322-40DA-8F3D-994F73B88901}|WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD.csproj|D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\webapp_school_api_crud\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EFE992-8322-40DA-8F3D-994F73B88901}|WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD.csproj|solutionrelative:webapp_school_api_crud\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFE992-8322-40DA-8F3D-994F73B88901}|WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD.csproj|D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\webapp_school_api_crud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EFE992-8322-40DA-8F3D-994F73B88901}|WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD.csproj|solutionrelative:webapp_school_api_crud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApp_School_Api_CRUD\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApp_School_Api_CRUD\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:09:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApp_School_Api_CRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApp_School_Api_CRUD\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:38:40.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDatails.cs",
+              "DocumentMoniker": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD\\Models\\StudentDatails.cs",
+              "RelativeDocumentMoniker": "WebApp_School_Api_CRUD\\Models\\StudentDatails.cs",
+              "ToolTip": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD\\Models\\StudentDatails.cs",
+              "RelativeToolTip": "WebApp_School_Api_CRUD\\Models\\StudentDatails.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAIwCUBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T05:10:42.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "WebApp_School_Api_CRUD\\Controllers\\LibraryController.cs",
+              "ToolTip": "D:\\Image_Video_Uploads_WebAPP\\WebApp_School_Api_CRUD\\WebApp_School_Api_CRUD\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "WebApp_School_Api_CRUD\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:16:48.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
